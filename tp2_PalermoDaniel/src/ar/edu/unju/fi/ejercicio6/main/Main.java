@@ -1,4 +1,4 @@
-package ar.edu.unju.fi.ejercicio5.main;
+package ar.edu.unju.fi.ejercicio6.main;
 
 import ar.edu.unju.fi.ejercicio6.interfaces.funcionales.Converter;
 import ar.edu.unju.fi.ejercicio6.model.FelinoDomestico;
