@@ -75,11 +75,14 @@ public class Producto {
 		this.estado = estado;
 	}
 
-	
+
 	@Override
 	public String toString() {
 		return "Producto [codigo=" + codigo + ", descripcion=" + descripcion + ", precioUnitario=" + precioUnitario
-				+ ", origenFabricacion=" + origenFabricacion + ", categoria=" + categoria + "]";
+				+ ", origenFabricacion=" + origenFabricacion + ", categoria=" + categoria + ", estado=" + estado + "]";
 	}
+
+	
+	
 
 }
